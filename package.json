@@ -1,0 +1,52 @@
+{
+  "name": "doloremqueid",
+  "version": "1.0.0",
+  "description": "Strip console, alert, and debugger statements from JavaScript code",
+  "license": "MIT",
+  "bin": {
+    "strip-debug": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EmelieHilll/doloremqueid.git"
+  },
+  "author": "DayneSmith",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "minima",
+    "libero",
+    "delete",
+    "dolore",
+    "debug",
+    "debugger",
+    "console",
+    "log",
+    "et",
+    "js",
+    "ut",
+    "ecmascript",
+    "ast",
+    "esprima"
+  ],
+  "dependencies": {
+    "rocambole": "^0.5.0",
+    "rocambole-strip-alert": "^1.0.0",
+    "rocambole-strip-console": "^1.0.0",
+    "rocambole-strip-debugger": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/EmelieHilll/doloremqueid.git/issues"
+  }
+}
